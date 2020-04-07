@@ -1,22 +1,22 @@
 COBRA
------
+=====
 
 Home Page: https://hvan6.github.io/cobraproject/
-Demo on Amazon AWS: http://ec2-54-183-131-70.us-west-1.compute.amazonaws.com/
+Demo on Amazon AWS (License is expired): http://ec2-54-183-131-70.us-west-1.compute.amazonaws.com/
 
 COBRA is a front-end web client application framework, with core functionality that is geared in support of LA Team (Data & Visual Analytics). COBRA is built on the Pyramid framework: https://trypyramid.com/
 
 
 
 About COBRA
------------
+===========
 
 The Cost of Buying/Renting Algorithm (COBRA) to help home-seekers process the overwhelming amount of data points involved in buying or renting a home to make an optimal decision.
 
 
 
 Description
------------
+===========
 
 In the search for a home, potential renters and buyers can become inundated with information found online about a multitude of real estate opportunities. It is believed that the average human has the capacity to hold approximately seven data points in short-term memory. While this exact number is disputed, it is eclipsed by the number of criteria that factor into identifying the optimal home and deciding whether to rent or to buy.
 
@@ -25,10 +25,10 @@ Our team plans to implement the Cost of Buying/Renting Algorithm (COBRA) to help
 
 
 Try COBRA
----------
+=========
 
 * Live Demo
-COBRA is a web-based UI and is available for demo on Amazon AWS: http://ec2-54-183-131-70.us-west-1.compute.amazonaws.com/
+COBRA is a web-based UI and is available for demo on Amazon AWS (License is expired): http://ec2-54-183-131-70.us-west-1.compute.amazonaws.com/
 The demo application was deployed in Ubuntu Server 18.04 LTS using web server uWSGI+ nginx
 
 * Get COBRA working locally
@@ -101,14 +101,14 @@ If you have any question to compile COBRA project, please contact us for help:
 
 
 Operating System Support
-------------------------
+========================
 
 The local version of COBRA (clone from github) only works on Windows OS.
 
 
 
 Documentation
--------------
+=============
 
 More details documents about COBRA
 * Proposal: https://github.com/hvan6/cobraproject/blob/master/assets/docs/team25proposal.pdf
@@ -119,7 +119,7 @@ More details documents about COBRA
 
 
 Contribution
-------------
+============
 
 COBRA is developed by the LA Team (Data & Visual Analytics).
 * 2019
