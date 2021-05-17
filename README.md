@@ -50,7 +50,7 @@ More details documents about COBRA
 ## Contribution
 COBRA is developed by the LA Team (Data & Visual Analytics).
 * 2019
-  * Anne Benolkin
+  * [Anne Benolkin](https://www.linkedin.com/in/anne-benolkin/)
   * [Hien Le](https://leohien.net/)
   * Matthew Molinare
   * Crystal Nguyen
