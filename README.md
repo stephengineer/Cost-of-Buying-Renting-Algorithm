@@ -52,6 +52,6 @@ COBRA is developed by the LA Team (Data & Visual Analytics).
 * 2019
   * [Anne Benolkin](https://www.linkedin.com/in/anne-benolkin/)
   * [Hien Le](https://leohien.net/)
-  * Matthew Molinare
+  * [Matthew Molinare](https://www.linkedin.com/in/mattmolinare/)
   * Crystal Nguyen
   * [Stephen Wang](http://stephenwang.me/)
